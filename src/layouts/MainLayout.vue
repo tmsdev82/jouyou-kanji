@@ -12,7 +12,7 @@
         />
 
         <q-toolbar-title>
-          Most used Kanji　「常用漢字」
+          Common use Kanji　「常用漢字」
         </q-toolbar-title>
       </q-toolbar>
     </q-header>
@@ -50,14 +50,14 @@ import EssentialLink from 'components/EssentialLink.vue'
 const linksData = [
   {
     title: 'Kanji list',
-    caption: 'List of most used kanji',
+    caption: 'List of common use kanji',
     icon: 'school',
     link: '/kanji-list'
   },
   {
     title: 'About',
-    caption: 'Information about me',
-    icon: 'school',
+    caption: 'About common use kanji list',
+    icon: 'info',
     link: '/about'
   },
  

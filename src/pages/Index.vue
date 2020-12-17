@@ -30,15 +30,17 @@
             dense
             expand-separator
             label="example sentences"
-            style="width: 100%;"
-            header-class="text-teal"
+            style="width: 100%"
+            header-class="text-secondary"
           >
             <q-card>
               <q-card-section>
                 <ul>
-                  <li v-for="(exampleSentence,index) in item.exampleSentences" :key="index">
-                  {{ exampleSentence.kanji}}
-
+                  <li
+                    v-for="(exampleSentence, index) in item.exampleSentences"
+                    :key="index"
+                  >
+                    {{ exampleSentence.kanji }}
                   </li>
                 </ul>
               </q-card-section>
@@ -53,19 +55,19 @@
 <script>
 export default {
   name: "PageIndex",
-  data: function() {
+  data: function () {
     return {
       kanji: [
         {
           name: "亜",
           onyomi: "ア",
           kunyomi: "つ.ぐ",
-          meaning: "sub-",          
+          meaning: "sub-",
           exampleSentences: [
-            {kanji: "亜鉛合金の誕生日帽子。"},
-            {kanji: "真鍮は銅と亜鉛の合金である。"},
-            {kanji: "私は亜紀子さんより佐知子さんの方が好きです。"},
-            ]
+            { kanji: "亜鉛合金の誕生日帽子。" },
+            { kanji: "真鍮は銅と亜鉛の合金である。" },
+            { kanji: "私は亜紀子さんより佐知子さんの方が好きです。" },
+          ],
         },
         {
           name: "哀",
@@ -73,17 +75,17 @@ export default {
           kunyomi: "あわ.れ、あわ.れむ",
           meaning: "pathetic, grief, pity, sorrow",
           exampleSentences: [
-            {kanji: "人々はその孤児を哀れんだ。"},
-            {kanji: "彼女は哀れを誘う有様だった。"},
-            {kanji: "哀れな吸血鬼。"},
-            ]
+            { kanji: "人々はその孤児を哀れんだ。" },
+            { kanji: "彼女は哀れを誘う有様だった。" },
+            { kanji: "哀れな吸血鬼。" },
+          ],
         },
         {
           name: "挨",
           onyomi: "アイ",
           kunyomi: "ひら.く",
           meaning: "push open",
-          exampleSentences: [{kanji: "挨拶すること。"}]
+          exampleSentences: [{ kanji: "挨拶すること。" }],
         },
         {
           name: "愛",
@@ -91,58 +93,57 @@ export default {
           kunyomi: "",
           meaning: "love",
           exampleSentences: [
-            {kanji: "愛している。"},
-            {kanji: "彼は最愛の息子をなくした。"},
-            {kanji: "遠距離恋愛をしたことありますか。"},
-            ]
-        },    
+            { kanji: "愛している。" },
+            { kanji: "彼は最愛の息子をなくした。" },
+            { kanji: "遠距離恋愛をしたことありますか。" },
+          ],
+        },
         {
           name: "曖",
           onyomi: "アイ",
           kunyomi: "",
           meaning: "not clear, vague",
           exampleSentences: [
-            {kanji: "彼はまた曖昧な事を言うかもしれない。"},
-            {kanji: "この文の意味は曖昧だ。"},
-            {kanji: "彼女は私達に曖昧な返事をした。"},
-            ]
-        },     
+            { kanji: "彼はまた曖昧な事を言うかもしれない。" },
+            { kanji: "この文の意味は曖昧だ。" },
+            { kanji: "彼女は私達に曖昧な返事をした。" },
+          ],
+        },
         {
           name: "悪",
           onyomi: "アク",
           kunyomi: "わる.い、にく.む",
           meaning: "bad",
-          exampleSentences: [{kanji: "彼は悪い人ですよ。"}]
-        },    
+          exampleSentences: [{ kanji: "彼は悪い人ですよ。" }],
+        },
         {
           name: "握",
           onyomi: "アク",
           kunyomi: "にぎ.る",
           meaning: "grip, hold, mould sushi",
           exampleSentences: [
-            {kanji: "成功への鍵を握るのは教育である。"},
-            {kanji: "若い女性が車のハンドルを握っていた。"},
-            {kanji: "弁護士は彼女が潔白だという有力な証拠を握っている。"},
-            ]
-        },    
+            { kanji: "成功への鍵を握るのは教育である。" },
+            { kanji: "若い女性が車のハンドルを握っていた。" },
+            { kanji: "弁護士は彼女が潔白だという有力な証拠を握っている。" },
+          ],
+        },
         {
           name: "圧",
           onyomi: "アツ",
           kunyomi: "お.す、へ.す、おさ.える",
           meaning: "pressure, push, overwhelm, oppress, dominate",
           exampleSentences: [
-            {kanji: "専制君主は自民を弾圧した。"},
-            {kanji: "私は血圧が低いです。"},
-            {kanji: "彼は私に圧力をかけた。"},
-            ]
-        }
-      ]
+            { kanji: "専制君主は自民を弾圧した。" },
+            { kanji: "私は血圧が低いです。" },
+            { kanji: "彼は私に圧力をかけた。" },
+          ],
+        },
+      ],
     };
-  }
+  },
 };
 </script>
 <style scoped>
-
 .match-q-indent {
   margin-left: 15px;
 }
@@ -159,9 +160,8 @@ td {
 .kanji {
   border: 1px solid rgb(201, 201, 201);
   font-size: 20px;
-  padding: 3px 6px;  
+  padding: 3px 6px;
   margin-right: 15px;
-  
 }
 
 .kanji .q-item__label.q-item__label--caption.text-caption {
@@ -176,7 +176,7 @@ td {
 ul {
   list-style: none;
   padding: 0;
-  margin:0;
+  margin: 0;
   list-style-type: none;
 }
 </style>

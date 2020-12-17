@@ -116,9 +116,9 @@ cfg.module.rules.push({
       workboxPluginMode: 'GenerateSW', // 'GenerateSW' or 'InjectManifest'
       workboxOptions: {}, // only for GenerateSW
       manifest: {
-        name: `japanese-helper`,
-        short_name: `japanese-helper`,
-        description: `List of jouyou kanji with example sentences`,
+        name: `common use kanji`,
+        short_name: `common use kanji`,
+        description: `List of common use kanji with example sentences`,
         display: 'standalone',
         orientation: 'portrait',
         background_color: '#ffffff',
