@@ -1,0 +1,198 @@
+[
+  {
+    "name": "亜",
+    "onyomi": "ア",
+    "kunyomi": "つ.ぐ",
+    "meaning": "sub-",
+    "exampleSentences": [
+      {
+        "kanji": "真鍮は銅と亜鉛の合金である。",
+        "hiragana": "<ruby><rb>真</rb><rt>しん</rt><rb>鍮</rb><rt>ちゅう</rt></ruby>は<ruby><rb>銅</rb><rt>どう</rt></ruby>と<ruby><rb>亜</rb><rt>あ</rt><rb>鉛</rb><rt>えん</rt></ruby>の<ruby><rb>合</rb><rt>ごう</rt><rb>金</rb><rt>きん</rt></ruby>である。",
+        "translation": "Brass is an alloy of copper and zinc.",
+        "furigana": false
+      },
+      {
+        "kanji": "私は亜紀子さんより佐知子さんの方が好きです。",
+        "hiragana": "<ruby><rb>私</rb><rt>わたし</rt></ruby>は<ruby><rb>亜</rb><rt>あ</rt><rb>紀</rb><rt>き</rt><rb>子</rb><rt>こ</rt></ruby>さんより<ruby><rb>佐</rb><rt>さ</rt><rb>知</rb><rt>ち</rt><rb>子</rb><rt>こ</rt></ruby>さんの<ruby><rb>方</rb><rt>ほう</rt></ruby>が<ruby><rb>好</rb><rt>す</rt></ruby>きです。",
+        "translation": "I like Sachiko better than Akiko.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "name": "哀",
+    "onyomi": "アイ",
+    "kunyomi": "あわ.れ、あわ.れむ",
+    "meaning": "pathetic, grief, pity, sorrow",
+    "exampleSentences": [
+      {
+        "kanji": "人々はその孤児を哀れんだ。",
+        "hiragana": "<ruby><rb>人</rb><rt>ひと</rt><rb>々</rb><rt>びと</rt></ruby>はその<ruby><rb>孤</rb><rt>こ</rt><rb>児</rb><rt>じ</rt></ruby>を<ruby><rb>哀</rb><rt>あわ</rt></ruby>れんだ。",
+        "translation": "People took pity on the orphan.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼女は哀れを誘う有様だった。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かの</rt><rb>女</rb><rt>じょ</rt></ruby>は<ruby><rb>哀</rb><rt>あわ</rt></ruby>れを<ruby><rb>誘</rb><rt>さそ</rt></ruby>う<ruby><rb>有</rb><rt>あり</rt><rb>様</rb><rt>さま</rt></ruby>だった。",
+        "translation": "She was in a piteous state",
+        "furigana": false
+      },
+      {
+        "kanji": "哀れな吸血鬼。",
+        "hiragana": "<ruby><rb>哀</rb><rt>あわ</rt></ruby>れな<ruby><rb>吸</rb><rt>きゅう</rt><rb>血</rb><rt>けつ</rt><rb>鬼</rb><rt>き</rt></ruby>。",
+        "translation": "Pitiful vampire",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "name": "挨",
+    "onyomi": "アイ",
+    "kunyomi": "ひら.く",
+    "meaning": "push open",
+    "exampleSentences": [
+      {
+        "kanji": "手を上げて挨拶をする。",
+        "hiragana": "<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げて<ruby><rb>挨</rb><rt>あい</rt><rb>拶</rb><rt>さつ</rt></ruby>をする。",
+        "translation": "Lift one's hand in greeting.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼女はにっこり笑って僕に挨拶した。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かの</rt><rb>女</rb><rt>じょ</rt></ruby>はにっこり<ruby><rb>笑</rb><rt>わら</rt></ruby>って<ruby><rb>僕</rb><rt>ぼく</rt></ruby>に<ruby><rb>挨</rb><rt>あい</rt><rb>拶</rb><rt>さつ</rt></ruby>した。",
+        "translation": "She greeted me with a big smile.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼らは帽子をちょっと持ち上げて挨拶した。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>らは<ruby><rb>帽</rb><rt>ぼう</rt><rb>子</rb><rt>し</rt></ruby>をちょっと<ruby><rb>持</rb><rt>も</rt></ruby>ち<ruby><rb>上</rb><rt>あ</rt></ruby>げて<ruby><rb>挨</rb><rt>あい</rt><rb>拶</rb><rt>さつ</rt></ruby>した。",
+        "translation": "They saluted each other by raising their hats.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "name": "愛",
+    "onyomi": "アイ",
+    "kunyomi": "",
+    "meaning": "love",
+    "exampleSentences": [
+      {
+        "kanji": "愛している。",
+        "hiragana": "<ruby><rb>愛</rb><rt>あい</rt></ruby>している。",
+        "translation": "I love you.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼は最愛の息子をなくした。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>は<ruby><rb>最</rb><rt>さい</rt><rb>愛</rb><rt>あい</rt></ruby>の<ruby><rb>息</rb><rt>むす</rt><rb>子</rb><rt>こ</rt></ruby>をなくした。",
+        "translation": "He lost his beloved son.",
+        "furigana": false
+      },
+      {
+        "kanji": "遠距離恋愛をしたことありますか。",
+        "hiragana": "<ruby><rb>遠</rb><rt>えん</rt><rb>距</rb><rt>きょ</rt><rb>離</rb><rt>り</rt><rb>恋</rb><rt>れん</rt><rb>愛</rb><rt>あい</rt></ruby>をしたことありますか。",
+        "translation": "Have you ever been in a long distance relationship?",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "name": "曖",
+    "onyomi": "アイ",
+    "kunyomi": "",
+    "meaning": "not clear, vague",
+    "exampleSentences": [
+      {
+        "kanji": "彼はまた曖昧な事を言うかもしれない。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>はまた<ruby><rb>曖</rb><rt>あい</rt><rb>昧</rb><rt>まい</rt></ruby>な<ruby><rb>事</rb><rt>こと</rt></ruby>を<ruby><rb>言</rb><rt>い</rt></ruby>うかもしれない。",
+        "translation": "He may well just say something ambiguous again.",
+        "furigana": false
+      },
+      {
+        "kanji": "この文の意味は曖昧だ。",
+        "hiragana": "この<ruby><rb>文</rb><rt>ぶん</rt></ruby>の<ruby><rb>意</rb><rt>い</rt><rb>味</rb><rt>み</rt></ruby>は<ruby><rb>曖</rb><rt>あい</rt><rb>昧</rb><rt>まい</rt></ruby>だ。",
+        "translation": "The meaning of this sentence is ambiguous.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼女は私達に曖昧な返事をした。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かの</rt><rb>女</rb><rt>じょ</rt></ruby>は<ruby><rb>私</rb><rt>わたし</rt><rb>達</rb><rt>たち</rt></ruby>に<ruby><rb>曖</rb><rt>あい</rt><rb>昧</rb><rt>まい</rt></ruby>な<ruby><rb>返</rb><rt>へん</rt><rb>事</rb><rt>じ</rt></ruby>をした。",
+        "translation": "She gave us a vague answer.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "name": "悪",
+    "onyomi": "アク",
+    "kunyomi": "わる.い、にく.む",
+    "meaning": "bad",
+    "exampleSentences": [
+      {
+        "kanji": "こいつは悪いウサギだった。",
+        "hiragana": "こいつは<ruby><rb>悪</rb><rt>わる</rt></ruby>いウサギだった。",
+        "translation": "That was an evil bunny.",
+        "furigana": false
+      },
+      {
+        "kanji": "全く悪いというわけではない。",
+        "hiragana": "<ruby><rb>全</rb><rt>まった</rt></ruby>く<ruby><rb>悪</rb><rt>わる</rt></ruby>いというわけではない。",
+        "translation": "That is not altogether bad.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "name": "握",
+    "onyomi": "アク",
+    "kunyomi": "にぎ.る",
+    "meaning": "grip, hold, mould sushi",
+    "exampleSentences": [
+      {
+        "kanji": "成功への鍵を握るのは教育である。",
+        "hiragana": "<ruby><rb>成</rb><rt>せい</rt><rb>功</rb><rt>こう</rt></ruby>への<ruby><rb>鍵</rb><rt>かぎ</rt></ruby>を<ruby><rb>握</rb><rt>にぎ</rt></ruby>るのは<ruby><rb>教</rb><rt>きょう</rt><rb>育</rb><rt>いく</rt></ruby>である。",
+        "translation": "It is education that is key to the success.",
+        "furigana": false
+      },
+      {
+        "kanji": "若い女性が車のハンドルを握っていた。",
+        "hiragana": "<ruby><rb>若</rb><rt>わか</rt></ruby>い<ruby><rb>女</rb><rt>じょ</rt><rb>性</rb><rt>せい</rt></ruby>が<ruby><rb>車</rb><rt>くるま</rt></ruby>のハンドルを<ruby><rb>握</rb><rt>にぎ</rt></ruby>っていた。",
+        "translation": "A young girl was at the steering wheel.",
+        "furigana": false
+      },
+      {
+        "kanji": "弁護士は彼女が潔白だという有力な証拠を握っている。",
+        "hiragana": "<ruby><rb>弁</rb><rt>べん</rt><rb>護</rb><rt>ご</rt><rb>士</rb><rt>し</rt></ruby>は<ruby><rb>彼</rb><rt>かの</rt><rb>女</rb><rt>じょ</rt></ruby>が<ruby><rb>潔</rb><rt>けっ</rt><rb>白</rb><rt>ぱく</rt></ruby>だという<ruby><rb>有</rb><rt>ゆう</rt><rb>力</rb><rt>りょく</rt></ruby>な<ruby><rb>証</rb><rt>しょう</rt><rb>拠</rb><rt>こ</rt></ruby>を<ruby><rb>握</rb><rt>にぎ</rt></ruby>っている。",
+        "translation": "The attorney has strong evidence that she is innocent.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "name": "圧",
+    "onyomi": "アツ",
+    "kunyomi": "お.す、へ.す、おさ.える",
+    "meaning": "pressure, push, overwhelm, oppress, dominate",
+    "exampleSentences": [
+      {
+        "kanji": "専制君主は自民を弾圧した。",
+        "hiragana": "<ruby><rb>専</rb><rt>せい</rt><rb>制</rb><rt>せい</rt><rb>君</rb><rt>くん</rt><rb>主</rb><rt>しゅ</rt></ruby>は<ruby><rb>自</rb><rt>じ</rt><rb>民</rb><rt>みん</rt></ruby>を<ruby><rb>弾</rb><rt>だん</rt><rb>圧</rb><rt>あつ</rt></ruby>した。",
+        "translation": "The tyrant kept the people down.",
+        "furigana": false
+      },
+      {
+        "kanji": "私は血圧が低いです。",
+        "hiragana": "<ruby><rb>私</rb><rt>わたし</rt></ruby>は<ruby><rb>血</rb><rt>けつ</rt><rb>圧</rb><rt>あつ</rt></ruby>が<ruby><rb>低</rb><rt>ひく</rt></ruby>いです。",
+        "translation": "I have low blood pressure.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼は私に圧力をかけた。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>は<ruby><rb>私</rb><rt>わたし</rt></ruby>に<ruby><rb>圧</rb><rt>あつ</rt><rb>力</rb><rt>りょく</rt></ruby>をかけた。",
+        "translation": "He pressured me.",
+        "furigana": false
+      }
+    ]
+  }
+]
