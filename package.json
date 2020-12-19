@@ -1,8 +1,8 @@
 {
   "name": "jouyou-kanji",
   "version": "0.0.1",
-  "description": "List of jouyou kanji with example sentences",
-  "productName": "japanese-helper",
+  "description": "List of common use kanji with example sentences.",
+  "productName": "common use kanji",
   "author": "tims <tmsteem82@gmail.com>",
   "private": true,
   "scripts": {
