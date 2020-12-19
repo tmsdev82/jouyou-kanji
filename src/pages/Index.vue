@@ -25,6 +25,13 @@
         <div class="match-q-indent">
           {{ item.meaning }}
         </div>
+        <div class="row match-q-indent">
+          <div v-for="(compoundWord, index) in item.compound_words" :key="index">
+            <span v-if="index != 0">, </span>
+            <!-- <span>{{compoundWord.kanji}}</span> -->
+            <span v-html="compoundWord.hiragana"></span>
+          </div>
+        </div>
         <div style="width: 100%">
           <q-expansion-item
             dense
@@ -40,8 +47,8 @@
                     v-for="(exampleSentence, index) in item.exampleSentences"
                     :key="index"
                   >
-                    <span v-if="!exampleSentence.furigana" @click="exampleSentence.furigana=true">{{ exampleSentence.kanji }}</span>                    
-                    <div v-if="exampleSentence.furigana" @click="exampleSentence.furigana=false">
+                    <span class="clickable-text" v-if="!exampleSentence.furigana" @click="exampleSentence.furigana=true">{{ exampleSentence.kanji }}</span>                    
+                    <div class="clickable-text" v-if="exampleSentence.furigana" @click="exampleSentence.furigana=false">
                       <div v-html="exampleSentence.hiragana"></div>
                       <div>{{exampleSentence.translation}}</div>
                     </div>
@@ -105,5 +112,11 @@ ul {
   padding: 0;
   margin: 0;
   list-style-type: none;
+}
+
+.clickable-text {
+  border-bottom: 1px dotted rgb(131, 161, 161);
+  display: inline;
+  cursor: pointer;
 }
 </style>

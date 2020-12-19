@@ -4,6 +4,26 @@
     "onyomi": "ア",
     "kunyomi": "つ.ぐ",
     "meaning": "sub-",
+    "compound_words": [
+      {
+        "kanji": "亜鉛",
+        "hiragana": "<ruby><rb>亜</rb><rt>あ</rt><rb>鉛</rb><rt>えん</rt></ruby>",
+        "translation": "zinc",
+        "furigana": false
+      },
+      {
+        "kanji": "亜熱帯",
+        "hiragana": "<ruby><rb>亜</rb><rt>あ</rt><rb>熱</rb><rt>ねっ</rt><rb>帯</rb><rt>たい</rt></ruby>",
+        "translation": "subtropics",
+        "furigana": false
+      },
+      {
+        "kanji": "亜空間",
+        "hiragana": "<ruby><rb>亜</rb><rt>あ</rt><rb>空</rb><rt>くう</rt><rb>間</rb><rt>かん</rt></ruby>",
+        "translation": "hyperspace, subspace",
+        "furigana": false
+      }
+    ],
     "exampleSentences": [
       {
         "kanji": "真鍮は銅と亜鉛の合金である。",
@@ -24,6 +44,20 @@
     "onyomi": "アイ",
     "kunyomi": "あわ.れ、あわ.れむ",
     "meaning": "pathetic, grief, pity, sorrow",
+    "compound_words": [
+      {
+        "kanji": "哀悼",
+        "hiragana": "<ruby><rb>哀</rb><rt>あい</rt><rb>悼</rb><rt>とう</rt></ruby>",
+        "translation": "condolence, regret, tribute",
+        "furigana": false
+      },
+      {
+        "kanji": "哀愁",
+        "hiragana": "<ruby><rb>哀</rb><rt>あ</rt><rb>愁</rb><rt>しゅう</rt></ruby>",
+        "translation": "pathos, sorrow, grief",
+        "furigana": false
+      }
+    ],
     "exampleSentences": [
       {
         "kanji": "人々はその孤児を哀れんだ。",
@@ -50,6 +84,20 @@
     "onyomi": "アイ",
     "kunyomi": "ひら.く",
     "meaning": "push open",
+    "compound_words": [
+      {
+        "kanji": "挨拶",
+        "hiragana": "<ruby><rb>挨</rb><rt>あい</rt><rb>拶</rb><rt>さつ</rt></ruby>",
+        "translation": "greeting, salute",
+        "furigana": false
+      },
+      {
+        "kanji": "挨拶状",
+        "hiragana": "<ruby><rb>挨</rb><rt>あい</rt><rb>拶</rb><rt>さつ</rt><rb>状</rb><rt>じょう</rt></ruby>",
+        "translation": "greeting card",
+        "furigana": false
+      }
+    ],
     "exampleSentences": [
       {
         "kanji": "手を上げて挨拶をする。",
@@ -76,6 +124,32 @@
     "onyomi": "アイ",
     "kunyomi": "",
     "meaning": "love",
+    "compound_words": [
+      {
+        "kanji": "愛情",
+        "hiragana": "<ruby><rb>愛</rb><rt>あい</rt><rb>情</rb><rt>じょう</rt></ruby>",
+        "translation": "love, affection",
+        "furigana": false
+      },
+      {
+        "kanji": "愛称",
+        "hiragana": "<ruby><rb>愛</rb><rt>あい</rt><rb>称</rb><rt>しょう</rt></ruby>",
+        "translation": "pet name, nickname",
+        "furigana": false
+      },
+      {
+        "kanji": "恋愛",
+        "hiragana": "<ruby><rb>恋</rb><rt>れん</rt><rb>愛</rb><rt>あい</rt></ruby>",
+        "translation": "love, love-making, passion",
+        "furigana": false
+      },
+      {
+        "kanji": "最愛",
+        "hiragana": "<ruby><rb>最</rb><rt>さい</rt><rb>愛</rb><rt>あい</rt></ruby>",
+        "translation": "beloved, dearest",
+        "furigana": false
+      }
+    ],
     "exampleSentences": [
       {
         "kanji": "愛している。",
@@ -102,6 +176,14 @@
     "onyomi": "アイ",
     "kunyomi": "",
     "meaning": "not clear, vague",
+    "compound_words": [
+      {
+        "kanji": "曖昧",
+        "hiragana": "<ruby><rb>曖</rb><rt>あい</rt><rb>昧</rb><rt>まい</rt></ruby>",
+        "translation": "vague, ambiguous, unclear",
+        "furigana": false
+      }
+    ],
     "exampleSentences": [
       {
         "kanji": "彼はまた曖昧な事を言うかもしれない。",
@@ -127,7 +209,27 @@
     "name": "悪",
     "onyomi": "アク",
     "kunyomi": "わる.い、にく.む",
-    "meaning": "bad",
+    "meaning": "bad, evil",
+    "compound_words": [
+      {
+        "kanji": "悪魔",
+        "hiragana": "<ruby><rb>悪</rb><rt>あく</rt><rb>魔</rb><rt>ま</rt></ruby>",
+        "translation": "devil, demon, fiend",
+        "furigana": false
+      },
+      {
+        "kanji": "悪夢",
+        "hiragana": "<ruby><rb>悪</rb><rt>あく</rt><rb>夢</rb><rt>む</rt></ruby>",
+        "translation": "nightmare, bad dream",
+        "furigana": false
+      },
+      {
+        "kanji": "悪意",
+        "hiragana": "<ruby><rb>悪</rb><rt>あく</rt><rb>意</rb><rt>い</rt></ruby>",
+        "translation": "ill will, malice, evil intention",
+        "furigana": false
+      }
+    ],
     "exampleSentences": [
       {
         "kanji": "こいつは悪いウサギだった。",
@@ -148,6 +250,26 @@
     "onyomi": "アク",
     "kunyomi": "にぎ.る",
     "meaning": "grip, hold, mould sushi",
+    "compound_words": [
+      {
+        "kanji": "握手",
+        "hiragana": "<ruby><rb>握</rb><rt>あく</rt><rb>手</rb><rt>しゅ</rt></ruby>",
+        "translation": "handshake",
+        "furigana": false
+      },
+      {
+        "kanji": "握力",
+        "hiragana": "<ruby><rb>握</rb><rt>あく</rt><rb>力</rb><rt>りょく</rt></ruby>",
+        "translation": "grip (of hand), grip strength",
+        "furigana": false
+      },
+      {
+        "kanji": "把握",
+        "hiragana": "<ruby><rb>把</rb><rt>は</rt><rb>握</rb><rt>あく</rt></ruby>",
+        "translation": "grasp, understanding",
+        "furigana": false
+      }
+    ],
     "exampleSentences": [
       {
         "kanji": "成功への鍵を握るのは教育である。",
@@ -174,6 +296,32 @@
     "onyomi": "アツ",
     "kunyomi": "お.す、へ.す、おさ.える",
     "meaning": "pressure, push, overwhelm, oppress, dominate",
+    "compound_words": [
+      {
+        "kanji": "圧縮",
+        "hiragana": "<ruby><rb>圧</rb><rt>あっ</rt><rb>縮</rb><rt>しゅく</rt></ruby>",
+        "translation": "compression, condenstation",
+        "furigana": false
+      },
+      {
+        "kanji": "血圧",
+        "hiragana": "<ruby><rb>血</rb><rt>けつ</rt><rb>圧</rb><rt>あつ</rt></ruby>",
+        "translation": "blood pressure",
+        "furigana": false
+      },
+      {
+        "kanji": "圧迫",
+        "hiragana": "<ruby><rb>圧</rb><rt>あっ</rt><rb>迫</rb><rt>ぱく</rt></ruby>",
+        "translation": "pressure",
+        "furigana": false
+      },
+      {
+        "kanji": "恋愛",
+        "hiragana": "<ruby><rb>恋</rb><rt>れん</rt><rb>愛</rb><rt>あい</rt></ruby>",
+        "translation": "love, love-making, passion",
+        "furigana": false
+      }
+    ],
     "exampleSentences": [
       {
         "kanji": "専制君主は自民を弾圧した。",
