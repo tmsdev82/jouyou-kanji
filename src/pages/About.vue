@@ -10,7 +10,7 @@
       </q-card-section>
       <q-card-section>
         <div>
-          This site is meant as an easy way for viewing the common use kanji on a mobile device.
+          This site is intended as an easy way for viewing the common use kanji on a mobile device.
         </div>
       </q-card-section>
     </q-card>

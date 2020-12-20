@@ -342,5 +342,79 @@
         "furigana": false
       }
     ]
+  },
+  {
+    "name": "扱",
+    "onyomi": "",
+    "kunyomi": "あつか.う",
+    "meaning": "handle, entertain",
+    "compound_words": [
+      {
+        "kanji": "扱いにくい",
+        "hiragana": "<ruby><rb>扱</rb><rt>あつか</rt></ruby>いにくい",
+        "translation": "hard to handle",
+        "furigana": false
+      },
+      {
+        "kanji": "取り扱い",
+        "hiragana": "<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>扱</rb><rt>あつか</rt></ruby>い",
+        "translation": "treatment, service, handling",
+        "furigana": false
+      }
+    ],
+    "exampleSentences": [
+      {
+        "kanji": "先生は生徒全員を公平に扱った。",
+        "hiragana": "<ruby><rb>先</rb><rt>せん</rt><rb>生</rb><rt>せい</rt></ruby>は<ruby><rb>生</rb><rt>せい</rt><rb>徒</rb><rt>と</rt><rb>全</rb><rt>ぜん</rt><rb>員</rb><rt>いん</rt></ruby>を<ruby><rb>公</rb><rt>こう</rt><rb>平</rb><rt>へい</rt></ruby>に<ruby><rb>扱</rb><rt>あつか</rt></ruby>った。",
+        "translation": "The teacher treated all the students fairly.",
+        "furigana": false
+      },
+      {
+        "kanji": "十分注意してそれを扱いなさい。",
+        "hiragana": "<ruby><rb>十</rb><rt>じゅう</rt><rb>分</rb><rt>ぶん</rt><rb>注</rb><rt>ちゅう</rt><rb>意</rb><rt>い</rt></ruby>してそれを<ruby><rb>扱</rb><rt>あつか</rt></ruby>いなさい。",
+        "translation": "Handle it with great care.",
+        "furigana": false
+      },
+      {
+        "kanji": "私は本章でその問題を取り扱うつもりです。",
+        "hiragana": "<ruby><rb>私</rb><rt>わたし</rt></ruby>は<ruby><rb>本</rb><rt>ほん</rt><rb>章</rb><rt>しょう</rt></ruby>でその<ruby><rb>問</rb><rt>もん</rt><rb>題</rb><rt>だい</rt></ruby>を<ruby><rb>取</rb><rt>と</rt></ruby>り<ruby><rb>扱</rb><rt>あつか</rt></ruby>うつもりです。",
+        "translation": "I am going to deal with the problem in this chapter.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "name": "宛",
+    "onyomi": "",
+    "kunyomi": "あ.てる、ーあて",
+    "meaning": "address",
+    "compound_words": [
+      {
+        "kanji": "宛名",
+        "hiragana": "<ruby><rb>宛</rb><rt>あて</rt><rb>名</rb><rt>な</rt></ruby>",
+        "translation": "(addressee's) name, (recipient's) name and address",
+        "furigana": false
+      },
+      {
+        "kanji": "宛先",
+        "hiragana": "<ruby><rb>宛</rb><rt>あて</rt><rb>先</rb><rt>さき</rt></ruby>",
+        "translation": "address, destination",
+        "furigana": false
+      }
+    ],
+    "exampleSentences": [
+      {
+        "kanji": "彼女は、ジョン宛に手紙を書いた。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かの</rt><rb>女</rb><rt>じょ</rt></ruby>は、ジョン<ruby><rb>宛</rb><rt>あて</rt></ruby>に<ruby><rb>手</rb><rt>て</rt><rb>紙</rb><rt>がみ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>いた。",
+        "translation": "She addressed the letter to John.",
+        "furigana": false
+      },
+      {
+        "kanji": "私宛の小包が届いていますか。",
+        "hiragana": "<ruby><rb>私</rb><rt>わたし</rt><rb>宛</rb><rt>あて</rt></ruby>の<ruby><rb>小</rb><rt>こ</rt><rb>包</rb><rt>づつみ</rt></ruby>が<ruby><rb>届</rb><rt>とど</rt></ruby>いていますか。",
+        "translation": "Have any packages arrived for me?",
+        "furigana": false
+      }
+    ]
   }
 ]
