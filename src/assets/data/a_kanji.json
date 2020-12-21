@@ -1,14 +1,38 @@
 [
   {
-    "name": "亜",
+    "number": "1",
+    "kanji": "亜",
+    "radical": "二",
+    "strokes": "7",
+    "grade": "8",
+    "jlpt": "1",
+    "freq": "1509",
     "onyomi": "ア",
     "kunyomi": "つ.ぐ",
-    "meaning": "sub-",
+    "meaning": "sub-, rank next, -ous, Asia",
     "compound_words": [
+      {
+        "kanji": "亜細亜",
+        "hiragana": "<ruby><rb>亜</rb><rt>ア</rt><rb>細</rb><rt>ジ</rt><rb>亜</rb><rt>ア</rt></ruby>",
+        "translation": "Asia",
+        "furigana": false
+      },
       {
         "kanji": "亜鉛",
         "hiragana": "<ruby><rb>亜</rb><rt>あ</rt><rb>鉛</rb><rt>えん</rt></ruby>",
-        "translation": "zinc",
+        "translation": "zinc (Zn)",
+        "furigana": false
+      },
+      {
+        "kanji": "亜鉛凸版",
+        "hiragana": "<ruby><rb>亜</rb><rt>あ</rt><rb>鉛</rb><rt>えん</rt><rb>凸</rb><rt>とっ</rt><rb>版</rb><rt>ぱん</rt></ruby>",
+        "translation": "photoengraving",
+        "furigana": false
+      },
+      {
+        "kanji": "亜種",
+        "hiragana": "<ruby><rb>亜</rb><rt>あ</rt><rb>種</rb><rt>しゅ</rt></ruby>",
+        "translation": "subspecies",
         "furigana": false
       },
       {
@@ -18,13 +42,19 @@
         "furigana": false
       },
       {
-        "kanji": "亜空間",
-        "hiragana": "<ruby><rb>亜</rb><rt>あ</rt><rb>空</rb><rt>くう</rt><rb>間</rb><rt>かん</rt></ruby>",
-        "translation": "hyperspace, subspace",
+        "kanji": "亜麻",
+        "hiragana": "<ruby><rb>亜</rb><rt>あ</rt><rb>麻</rb><rt>ま</rt></ruby>",
+        "translation": "flax (Linum usitatissimum), linseed",
+        "furigana": false
+      },
+      {
+        "kanji": "白亜紀",
+        "hiragana": "<ruby><rb>白</rb><rt>はく</rt><rb>亜</rb><rt>あ</rt><rb>紀</rb><rt>き</rt></ruby>",
+        "translation": "Cretaceous Period",
         "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "真鍮は銅と亜鉛の合金である。",
         "hiragana": "<ruby><rb>真</rb><rt>しん</rt><rb>鍮</rb><rt>ちゅう</rt></ruby>は<ruby><rb>銅</rb><rt>どう</rt></ruby>と<ruby><rb>亜</rb><rt>あ</rt><rb>鉛</rb><rt>えん</rt></ruby>の<ruby><rb>合</rb><rt>ごう</rt><rb>金</rb><rt>きん</rt></ruby>である。",
@@ -36,29 +66,53 @@
         "hiragana": "<ruby><rb>私</rb><rt>わたし</rt></ruby>は<ruby><rb>亜</rb><rt>あ</rt><rb>紀</rb><rt>き</rt><rb>子</rb><rt>こ</rt></ruby>さんより<ruby><rb>佐</rb><rt>さ</rt><rb>知</rb><rt>ち</rt><rb>子</rb><rt>こ</rt></ruby>さんの<ruby><rb>方</rb><rt>ほう</rt></ruby>が<ruby><rb>好</rb><rt>す</rt></ruby>きです。",
         "translation": "I like Sachiko better than Akiko.",
         "furigana": false
+      },
+      {
+        "kanji": "この金属は亜鉛と呼ばれる。",
+        "hiragana": "この<ruby><rb>金</rb><rt>きん</rt><rb>属</rb><rt>ぞく</rt></ruby>は<ruby><rb>亜</rb><rt>あ</rt><rb>鉛</rb><rt>えん</rt></ruby>と<ruby><rb>呼</rb><rt>よ</rt></ruby>ばれる。",
+        "translation": "This metal is called zinc.",
+        "furigana": false
       }
     ]
   },
   {
-    "name": "哀",
+    "number": "2",
+    "kanji": "哀",
+    "radical": "口",
+    "strokes": "9",
+    "grade": "8",
+    "jlpt": "1",
+    "freq": "1715",
     "onyomi": "アイ",
-    "kunyomi": "あわ.れ、あわ.れむ",
-    "meaning": "pathetic, grief, pity, sorrow",
+    "kunyomi": "あわ.れむ, あわ.れ, かな.しい",
+    "meaning": "grief, pity, sorrow, pathetic, sympathize, pathos",
     "compound_words": [
       {
-        "kanji": "哀悼",
-        "hiragana": "<ruby><rb>哀</rb><rt>あい</rt><rb>悼</rb><rt>とう</rt></ruby>",
-        "translation": "condolence, regret, tribute",
+        "kanji": "哀れみ",
+        "hiragana": "<ruby><rb>哀</rb><rt>あわ</rt></ruby>れみ",
+        "translation": "pity, compassion",
         "furigana": false
       },
       {
-        "kanji": "哀愁",
-        "hiragana": "<ruby><rb>哀</rb><rt>あ</rt><rb>愁</rb><rt>しゅう</rt></ruby>",
-        "translation": "pathos, sorrow, grief",
+        "kanji": "哀音",
+        "hiragana": "<ruby><rb>哀</rb><rt>あい</rt><rb>音</rb><rt>おん</rt></ruby>",
+        "translation": "sad voices, sad sounds",
+        "furigana": false
+      },
+      {
+        "kanji": "哀感",
+        "hiragana": "<ruby><rb>哀</rb><rt>あい</rt><rb>感</rb><rt>かん</rt></ruby>",
+        "translation": "pathos",
+        "furigana": false
+      },
+      {
+        "kanji": "哀悼",
+        "hiragana": "<ruby><rb>哀</rb><rt>あい</rt><rb>悼</rb><rt>とう</rt></ruby>",
+        "translation": "condolence, regret, tribute, sorrow, sympathy, lament",
         "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "人々はその孤児を哀れんだ。",
         "hiragana": "<ruby><rb>人</rb><rt>ひと</rt><rb>々</rb><rt>びと</rt></ruby>はその<ruby><rb>孤</rb><rt>こ</rt><rb>児</rb><rt>じ</rt></ruby>を<ruby><rb>哀</rb><rt>あわ</rt></ruby>れんだ。",
@@ -72,18 +126,24 @@
         "furigana": false
       },
       {
-        "kanji": "哀れな吸血鬼。",
-        "hiragana": "<ruby><rb>哀</rb><rt>あわ</rt></ruby>れな<ruby><rb>吸</rb><rt>きゅう</rt><rb>血</rb><rt>けつ</rt><rb>鬼</rb><rt>き</rt></ruby>。",
-        "translation": "Pitiful vampire",
+        "kanji": "俺を哀れに思って助けてくれたのさ。",
+        "hiragana": "<ruby><rb>俺</rb><rt>おれ</rt></ruby>を<ruby><rb>哀</rb><rt>あわ</rt></ruby>れに<ruby><rb>思</rb><rt>おも</rt></ruby>って<ruby><rb>助</rb><rt>たす</rt></ruby>けてくれたのさ。",
+        "translation": "He took pity on me and helped me out.",
         "furigana": false
       }
     ]
   },
   {
-    "name": "挨",
+    "number": "3",
+    "kanji": "挨",
+    "radical": "手",
+    "strokes": "10",
+    "grade": "8",
+    "jlpt": null,
+    "freq": "2258",
     "onyomi": "アイ",
     "kunyomi": "ひら.く",
-    "meaning": "push open",
+    "meaning": "draw near, approach, push open",
     "compound_words": [
       {
         "kanji": "挨拶",
@@ -96,9 +156,15 @@
         "hiragana": "<ruby><rb>挨</rb><rt>あい</rt><rb>拶</rb><rt>さつ</rt><rb>状</rb><rt>じょう</rt></ruby>",
         "translation": "greeting card",
         "furigana": false
+      },
+      {
+        "kanji": "挨拶文",
+        "hiragana": "<ruby><rb>挨</rb><rt>あい</rt><rb>拶</rb><rt>さつ</rt><rb>文</rb><rt>ぶん</rt></ruby>",
+        "translation": "greeting phrase (in letter, etc.), salutation",
+        "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "手を上げて挨拶をする。",
         "hiragana": "<ruby><rb>手</rb><rt>て</rt></ruby>を<ruby><rb>上</rb><rt>あ</rt></ruby>げて<ruby><rb>挨</rb><rt>あい</rt><rb>拶</rb><rt>さつ</rt></ruby>をする。",
@@ -120,10 +186,16 @@
     ]
   },
   {
-    "name": "愛",
+    "number": "4",
+    "kanji": "愛",
+    "radical": "心",
+    "strokes": "13",
+    "grade": "4",
+    "jlpt": "2",
+    "freq": "640",
     "onyomi": "アイ",
-    "kunyomi": "",
-    "meaning": "love",
+    "kunyomi": "いと.しい, お.しむ, まな, め.でる, かな.しい",
+    "meaning": "affection, love, favourite",
     "compound_words": [
       {
         "kanji": "愛情",
@@ -150,7 +222,7 @@
         "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "愛している。",
         "hiragana": "<ruby><rb>愛</rb><rt>あい</rt></ruby>している。",
@@ -172,10 +244,16 @@
     ]
   },
   {
-    "name": "曖",
+    "number": "5",
+    "kanji": "曖",
+    "radical": "日",
+    "strokes": "17",
+    "grade": "8",
+    "jlpt": null,
+    "freq": null,
     "onyomi": "アイ",
-    "kunyomi": "",
-    "meaning": "not clear, vague",
+    "kunyomi": "くら.い",
+    "meaning": "not clear, dark",
     "compound_words": [
       {
         "kanji": "曖昧",
@@ -184,7 +262,7 @@
         "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "彼はまた曖昧な事を言うかもしれない。",
         "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>はまた<ruby><rb>曖</rb><rt>あい</rt><rb>昧</rb><rt>まい</rt></ruby>な<ruby><rb>事</rb><rt>こと</rt></ruby>を<ruby><rb>言</rb><rt>い</rt></ruby>うかもしれない。",
@@ -206,10 +284,16 @@
     ]
   },
   {
-    "name": "悪",
-    "onyomi": "アク",
-    "kunyomi": "わる.い、にく.む",
-    "meaning": "bad, evil",
+    "number": "6",
+    "kanji": "悪",
+    "radical": "心",
+    "strokes": "11",
+    "grade": "3",
+    "jlpt": "3",
+    "freq": "530",
+    "onyomi": "アク, オ",
+    "kunyomi": "わる.い, にく.む, にく.い",
+    "meaning": "evil, false, bad, vice, rascal, wrong",
     "compound_words": [
       {
         "kanji": "悪魔",
@@ -228,9 +312,15 @@
         "hiragana": "<ruby><rb>悪</rb><rt>あく</rt><rb>意</rb><rt>い</rt></ruby>",
         "translation": "ill will, malice, evil intention",
         "furigana": false
+      },
+      {
+        "kanji": "悪衣",
+        "hiragana": "<ruby><rb>悪</rb><rt>あく</rt><rb>衣</rb><rt>い</rt></ruby>",
+        "translation": "shabby clothes",
+        "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "こいつは悪いウサギだった。",
         "hiragana": "こいつは<ruby><rb>悪</rb><rt>わる</rt></ruby>いウサギだった。",
@@ -242,15 +332,39 @@
         "hiragana": "<ruby><rb>全</rb><rt>まった</rt></ruby>く<ruby><rb>悪</rb><rt>わる</rt></ruby>いというわけではない。",
         "translation": "That is not altogether bad.",
         "furigana": false
+      },
+      {
+        "kanji": "良書と悪書を見分けるのは必ずしも容易ではない。",
+        "hiragana": "<ruby><rb>良</rb><rt>りょう</rt><rb>書</rb><rt>しょ</rt></ruby>と<ruby><rb>悪</rb><rt>わる</rt><rb>書</rb><rt>しょ</rt></ruby>を<ruby><rb>見</rb><rt>み</rt><rb>分</rb><rt>わ</rt></ruby>けるのは<ruby><rb>必</rb><rt>かなら</rt></ruby>ずしも<ruby><rb>容</rb><rt>よう</rt><rb>易</rb><rt>い</rt></ruby>ではない。",
+        "translation": "It isn't always easy to know a good book from a bad one.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼は機嫌が悪い。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>は<ruby><rb>機</rb><rt>き</rt><rb>嫌</rb><rt>げん</rt></ruby>が<ruby><rb>悪</rb><rt>わる</rt></ruby>い。",
+        "translation": "He is in a bad mood.",
+        "furigana": false
       }
     ]
   },
   {
-    "name": "握",
+    "number": "7",
+    "kanji": "握",
+    "radical": "手",
+    "strokes": "12",
+    "grade": "8",
+    "jlpt": "1",
+    "freq": "1003",
     "onyomi": "アク",
     "kunyomi": "にぎ.る",
-    "meaning": "grip, hold, mould sushi",
+    "meaning": "hold, grip, bribe, mould sushi",
     "compound_words": [
+      {
+        "kanji": "お握り",
+        "hiragana": "お<ruby><rb>握</rb><rt>にぎ</rt></ruby>り",
+        "translation": "onigiri, rice ball",
+        "furigana": false
+      },
       {
         "kanji": "握手",
         "hiragana": "<ruby><rb>握</rb><rt>あく</rt><rb>手</rb><rt>しゅ</rt></ruby>",
@@ -270,7 +384,7 @@
         "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "成功への鍵を握るのは教育である。",
         "hiragana": "<ruby><rb>成</rb><rt>せい</rt><rb>功</rb><rt>こう</rt></ruby>への<ruby><rb>鍵</rb><rt>かぎ</rt></ruby>を<ruby><rb>握</rb><rt>にぎ</rt></ruby>るのは<ruby><rb>教</rb><rt>きょう</rt><rb>育</rb><rt>いく</rt></ruby>である。",
@@ -292,10 +406,16 @@
     ]
   },
   {
-    "name": "圧",
-    "onyomi": "アツ",
-    "kunyomi": "お.す、へ.す、おさ.える",
-    "meaning": "pressure, push, overwhelm, oppress, dominate",
+    "number": "8",
+    "kanji": "圧",
+    "radical": "土",
+    "strokes": "5",
+    "grade": "5",
+    "jlpt": "2",
+    "freq": "718",
+    "onyomi": "アツ, オウ, エン",
+    "kunyomi": "お.さえる, へ.す, お.す, おさ.える",
+    "meaning": "push, overwhelm, dominate, oppress, pressure",
     "compound_words": [
       {
         "kanji": "圧縮",
@@ -322,7 +442,7 @@
         "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "専制君主は自民を弾圧した。",
         "hiragana": "<ruby><rb>専</rb><rt>せい</rt><rb>制</rb><rt>せい</rt><rb>君</rb><rt>くん</rt><rb>主</rb><rt>しゅ</rt></ruby>は<ruby><rb>自</rb><rt>じ</rt><rb>民</rb><rt>みん</rt></ruby>を<ruby><rb>弾</rb><rt>だん</rt><rb>圧</rb><rt>あつ</rt></ruby>した。",
@@ -344,10 +464,16 @@
     ]
   },
   {
-    "name": "扱",
-    "onyomi": "",
-    "kunyomi": "あつか.う",
-    "meaning": "handle, entertain",
+    "number": "9",
+    "kanji": "扱",
+    "radical": "手",
+    "strokes": "6",
+    "grade": "8",
+    "jlpt": "1",
+    "freq": "1057",
+    "onyomi": "ソウ, キュウ",
+    "kunyomi": "あつか.る, あつか.い, こ.く, あつか.う",
+    "meaning": "strip, entertain, handle, thresh",
     "compound_words": [
       {
         "kanji": "扱いにくい",
@@ -362,7 +488,7 @@
         "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "先生は生徒全員を公平に扱った。",
         "hiragana": "<ruby><rb>先</rb><rt>せん</rt><rb>生</rb><rt>せい</rt></ruby>は<ruby><rb>生</rb><rt>せい</rt><rb>徒</rb><rt>と</rt><rb>全</rb><rt>ぜん</rt><rb>員</rb><rt>いん</rt></ruby>を<ruby><rb>公</rb><rt>こう</rt><rb>平</rb><rt>へい</rt></ruby>に<ruby><rb>扱</rb><rt>あつか</rt></ruby>った。",
@@ -384,10 +510,16 @@
     ]
   },
   {
-    "name": "宛",
-    "onyomi": "",
-    "kunyomi": "あ.てる、ーあて",
-    "meaning": "address",
+    "number": "10",
+    "kanji": "宛",
+    "radical": "宀",
+    "strokes": "8",
+    "grade": "8",
+    "jlpt": null,
+    "freq": null,
+    "onyomi": "エン",
+    "kunyomi": "-づつ, あたか.も, -あて, あ.てる",
+    "meaning": "allocate, just like, address, fortunately",
     "compound_words": [
       {
         "kanji": "宛名",
@@ -402,7 +534,7 @@
         "furigana": false
       }
     ],
-    "exampleSentences": [
+    "example_sentences": [
       {
         "kanji": "彼女は、ジョン宛に手紙を書いた。",
         "hiragana": "<ruby><rb>彼</rb><rt>かの</rt><rb>女</rb><rt>じょ</rt></ruby>は、ジョン<ruby><rb>宛</rb><rt>あて</rt></ruby>に<ruby><rb>手</rb><rt>て</rt><rb>紙</rb><rt>がみ</rt></ruby>を<ruby><rb>書</rb><rt>か</rt></ruby>いた。",
@@ -413,6 +545,280 @@
         "kanji": "私宛の小包が届いていますか。",
         "hiragana": "<ruby><rb>私</rb><rt>わたし</rt><rb>宛</rb><rt>あて</rt></ruby>の<ruby><rb>小</rb><rt>こ</rt><rb>包</rb><rt>づつみ</rt></ruby>が<ruby><rb>届</rb><rt>とど</rt></ruby>いていますか。",
         "translation": "Have any packages arrived for me?",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "number": "11",
+    "kanji": "嵐",
+    "radical": "山",
+    "strokes": "12",
+    "grade": "8",
+    "jlpt": "1",
+    "freq": "1910",
+    "onyomi": "ラン",
+    "kunyomi": "あらし",
+    "meaning": "tempest, storm",
+    "compound_words": [
+      {
+        "kanji": "夜嵐",
+        "hiragana": "<ruby><rb>夜</rb><rt>よ</rt><rb>嵐</rb><rt>あらし</rt></ruby>",
+        "translation": "night storm",
+        "furigana": false
+      },
+      {
+        "kanji": "嵐の前の静けさ",
+        "hiragana": "<ruby><rb>嵐</rb><rt>あらし</rt></ruby>の<ruby><rb>前</rb><rt>まえ</rt></ruby>の<ruby><rb>静</rb><rt>しず</rt></ruby>けさ",
+        "translation": "calm before a storm, lull before the storm",
+        "furigana": false
+      },
+      {
+        "kanji": "大嵐",
+        "hiragana": "<ruby><rb>大</rb><rt>おお</rt><rb>嵐</rb><rt>あらし</rt></ruby>",
+        "translation": "raging storm",
+        "furigana": false
+      }
+    ],
+    "example_sentences": [
+      {
+        "kanji": "近いうちに嵐になりそうだ。",
+        "hiragana": "<ruby><rb>近</rb><rt>ちか</rt></ruby>いうちに<ruby><rb>嵐</rb><rt>あらし</rt></ruby>になりそうだ。",
+        "translation": "It seems that there will be a storm soon.",
+        "furigana": false
+      },
+      {
+        "kanji": "列車が止まったのは嵐のせいだった。",
+        "hiragana": "<ruby><rb>列</rb><rt>れっ</rt><rb>車</rb><rt>しゃ</rt></ruby>が<ruby><rb>止</rb><rt>と</rt></ruby>まったのは<ruby><rb>嵐</rb><rt>あらし</rt></ruby>のせいだった。",
+        "translation": "It was because of the storm that the trains were halted.",
+        "furigana": false
+      },
+      {
+        "kanji": "嵐は発達して台風になった。",
+        "hiragana": "<ruby><rb>嵐</rb><rt>あらし</rt></ruby>は<ruby><rb>発</rb><rt>はっ</rt><rb>達</rb><rt>たつ</rt></ruby>して<ruby><rb>台</rb><rt>たい</rt><rb>風</rb><rt>ふ</rt></ruby>になった。",
+        "translation": "The storm developed into a typhoon.",
+        "furigana": false
+      },
+      {
+        "kanji": "１０年振りの最悪の嵐だ。",
+        "hiragana": "１０<ruby><rb>年</rb><rt>ねん</rt><rb>振</rb><rt>ぶ</rt></ruby>りの<ruby><rb>最</rb><rt>さい</rt><rb>悪</rb><rt>あく</rt></ruby>の<ruby><rb>嵐</rb><rt>あらし</rt></ruby>だ。",
+        "translation": "This is the worst storm in ten years.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "number": "12",
+    "kanji": "安",
+    "radical": "宀",
+    "strokes": "6",
+    "grade": "3",
+    "jlpt": "4",
+    "freq": "144",
+    "onyomi": "アン",
+    "kunyomi": "やす.らか, やす, やす.まる, やす.い",
+    "meaning": "cheap, low, rested, peaceful, contented, relax, quiet",
+    "compound_words": [
+      {
+        "kanji": "安っぽい",
+        "hiragana": "<ruby><rb>安</rb><rt>やす</rt></ruby>っぽい",
+        "translation": "cheap-looking, tawdry, insignificant",
+        "furigana": false
+      },
+      {
+        "kanji": "安楽",
+        "hiragana": "<ruby><rb>安</rb><rt>あん</rt><rb>楽</rb><rt>らく</rt></ruby>",
+        "translation": "comfort, ease",
+        "furigana": false
+      },
+      {
+        "kanji": "安気",
+        "hiragana": "<ruby><rb>安</rb><rt>あん</rt><rb>気</rb><rt>き</rt></ruby>",
+        "translation": "ease, comfort, feeling at home",
+        "furigana": false
+      },
+      {
+        "kanji": "安心",
+        "hiragana": "<ruby><rb>安</rb><rt>あん</rt><rb>心</rb><rt>しん</rt></ruby>",
+        "translation": "obtaining peace of mind through faith or ascetic practice",
+        "furigana": false
+      },
+      {
+        "kanji": "安全",
+        "hiragana": "<ruby><rb>安</rb><rt>あん</rt><rb>全</rb><rt>ぜん</rt></ruby>",
+        "translation": "safety, security",
+        "furigana": false
+      },
+      {
+        "kanji": "安定",
+        "hiragana": "<ruby><rb>安</rb><rt>あん</rt><rb>定</rb><rt>てい</rt></ruby>",
+        "translation": "stability, steadiness, equilibrium",
+        "furigana": false
+      },
+      {
+        "kanji": "不安",
+        "hiragana": "<ruby><rb>不</rb><rt>ふ</rt><rb>安</rb><rt>あん</rt></ruby>",
+        "translation": "anxiety, uneasiness, worry, apprehension, fear, insecurity, suspense",
+        "furigana": false
+      }
+    ],
+    "example_sentences": [
+      {
+        "kanji": "ファイアーウォールがインターネットの安全性を保証する。",
+        "hiragana": "ファイアーウォールがインターネットの<ruby><rb>安</rb><rt>あん</rt><rb>全</rb><rt>ぜん</rt><rb>性</rb><rt>せい</rt></ruby>を<ruby><rb>保</rb><rt>ほ</rt><rb>証</rb><rt>しょう</rt></ruby>する。",
+        "translation": "A firewall will guarantee Internet security.",
+        "furigana": false
+      },
+      {
+        "kanji": "思ったより安くあがった。",
+        "hiragana": "<ruby><rb>思</rb><rt>おも</rt></ruby>ったより<ruby><rb>安</rb><rt>やす</rt></ruby>くあがった。",
+        "translation": "It wasn't as expensive as I expected.",
+        "furigana": false
+      },
+      {
+        "kanji": "老後を安心して暮らしたかったら今から貯蓄を始めなさい。",
+        "hiragana": "<ruby><rb>老</rb><rt>ろう</rt><rb>後</rb><rt>ご</rt></ruby>を<ruby><rb>安</rb><rt>あん</rt><rb>心</rb><rt>しん</rt></ruby>して<ruby><rb>暮</rb><rt>く</rt></ruby>らしたかったら<ruby><rb>今</rb><rt>いま</rt></ruby>から<ruby><rb>貯</rb><rt>ちょ</rt><rb>蓄</rb><rt>ちく</rt></ruby>を<ruby><rb>始</rb><rt>はじ</rt></ruby>めなさい。",
+        "translation": "If you want security in your old age, begin saving now.",
+        "furigana": false
+      },
+      {
+        "kanji": "両親は自分の子供たちの安全に責任がある。",
+        "hiragana": "<ruby><rb>両</rb><rt>りょう</rt><rb>親</rb><rt>しん</rt></ruby>は<ruby><rb>自</rb><rt>じ</rt><rb>分</rb><rt>ぶん</rt></ruby>の<ruby><rb>子</rb><rt>こ</rt><rb>供</rb><rt>ども</rt></ruby>たちの<ruby><rb>安</rb><rt>あん</rt><rb>全</rb><rt>ぜん</rt></ruby>に<ruby><rb>責</rb><rt>せき</rt><rb>任</rb><rt>にん</rt></ruby>がある。",
+        "translation": "Parents are responsible for the safety of their children.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼の手紙を読むと不安になる。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>の<ruby><rb>手</rb><rt>て</rt><rb>紙</rb><rt>がみ</rt></ruby>を<ruby><rb>読</rb><rt>よ</rt></ruby>むと<ruby><rb>不</rb><rt>ふ</rt><rb>安</rb><rt>あん</rt></ruby>になる。",
+        "translation": "His letter makes me uneasy.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "number": "13",
+    "kanji": "案",
+    "radical": "木",
+    "strokes": "10",
+    "grade": "4",
+    "jlpt": "2",
+    "freq": "206",
+    "onyomi": "アン",
+    "kunyomi": "つくえ",
+    "meaning": "suggestion,table, idea, worry, plan",
+    "compound_words": [
+      {
+        "kanji": "案内所",
+        "hiragana": "<ruby><rb>案</rb><rt>あん</rt><rb>内</rb><rt>ない</rt><rb>所</rb><rt>じょ</rt></ruby>",
+        "translation": "information desk",
+        "furigana": false
+      },
+      {
+        "kanji": "提案",
+        "hiragana": "<ruby><rb>提</rb><rt>てい</rt><rb>案</rb><rt>あん</rt></ruby>",
+        "translation": "proposal, proposition, suggestion",
+        "furigana": false
+      },
+      {
+        "kanji": "提案者",
+        "hiragana": "<ruby><rb>提</rb><rt>てい</rt><rb>案</rb><rt>あん</rt><rb>者</rb><rt>しゃ</rt></ruby>",
+        "translation": "proponent",
+        "furigana": false
+      },
+      {
+        "kanji": "案内記",
+        "hiragana": "<ruby><rb>案</rb><rt>あん</rt><rb>内</rb><rt>ない</rt><rb>記</rb><rt>き</rt></ruby>",
+        "translation": "guidebook, guide",
+        "furigana": false
+      }
+    ],
+    "example_sentences": [
+      {
+        "kanji": "僕はその提案に同意した。",
+        "hiragana": "<ruby><rb>僕</rb><rt>ぼく</rt></ruby>はその<ruby><rb>提</rb><rt>てい</rt><rb>案</rb><rt>あん</rt></ruby>に<ruby><rb>同</rb><rt>どう</rt><rb>意</rb><rt>い</rt></ruby>した。",
+        "translation": "I agreed to the proposal.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼は会合を月曜まで延期しようと提案した。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>は<ruby><rb>会</rb><rt>かい</rt><rb>合</rb><rt>ごう</rt></ruby>を<ruby><rb>月</rb><rt>げつ</rt><rb>曜</rb><rt>よう</rt></ruby>まで<ruby><rb>延</rb><rt>えん</rt><rb>期</rb><rt>き</rt></ruby>しようと<ruby><rb>提</rb><rt>てい</rt><rb>案</rb><rt>あん</rt></ruby>した。",
+        "translation": "He suggested that the meeting be put off till Monday.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼は泳ぎに行こうと提案した。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>は<ruby><rb>泳</rb><rt>およ</rt></ruby>ぎに<ruby><rb>行</rb><rt>い</rt></ruby>こうと<ruby><rb>提</rb><rt>てい</rt><rb>案</rb><rt>あん</rt></ruby>した。",
+        "translation": "He suggested that we go for a swim.",
+        "furigana": false
+      }
+    ]
+  },
+  {
+    "number": "14",
+    "kanji": "暗",
+    "radical": "日",
+    "strokes": "13",
+    "grade": "3",
+    "jlpt": "3",
+    "freq": "1040",
+    "onyomi": "アン",
+    "kunyomi": "くら.い, くら.む, くれ.る",
+    "meaning": "shade, be blinded, dark, informal",
+    "compound_words": [
+      {
+        "kanji": "暗闇",
+        "hiragana": "<ruby><rb>暗</rb><rt>くら</rt><rb>闇</rb><rt>やみ</rt></ruby>",
+        "translation": "darkness, the dark",
+        "furigana": false
+      },
+      {
+        "kanji": "暗雲",
+        "hiragana": "<ruby><rb>暗</rb><rt>あん</rt><rb>雲</rb><rt>うん</rt></ruby>",
+        "translation": "dark clouds",
+        "furigana": false
+      },
+      {
+        "kanji": "暗号",
+        "hiragana": "<ruby><rb>暗</rb><rt>あん</rt><rb>号</rb><rt>ごう</rt></ruby>",
+        "translation": "code, password, cipher",
+        "furigana": false
+      },
+      {
+        "kanji": "暗殺",
+        "hiragana": "<ruby><rb>暗</rb><rt>あん</rt><rb>殺</rb><rt>さつ</rt></ruby>",
+        "translation": "assassination",
+        "furigana": false
+      }
+    ],
+    "example_sentences": [
+      {
+        "kanji": "外が暗くなってきた。",
+        "hiragana": "<ruby><rb>外</rb><rt>そと</rt></ruby>が<ruby><rb>暗</rb><rt>くら</rt></ruby>くなってきた。",
+        "translation": "It's getting darker outside now.",
+        "furigana": false
+      },
+      {
+        "kanji": "暗雲が立ちこめていた後には、すっきりとした晴れ間になる。",
+        "hiragana": "<ruby><rb>暗</rb><rt>あん</rt><rb>雲</rb><rt>うん</rt></ruby>が<ruby><rb>立</rb><rt>た</rt></ruby>ちこめていた<ruby><rb>後</rb><rt>あと</rt></ruby>には、すっきりとした<ruby><rb>晴</rb><rt>は</rt></ruby>れ<ruby><rb>間</rb><rt>ま</rt></ruby>になる。",
+        "translation": "After dark clouds, you get periods of refreshing clear weather.",
+        "furigana": false
+      },
+      {
+        "kanji": "僕は暗いうちに起きた。",
+        "hiragana": "<ruby><rb>僕</rb><rt>ぼく</rt></ruby>は<ruby><rb>暗</rb><rt>くら</rt></ruby>いうちに<ruby><rb>起</rb><rt>お</rt></ruby>きた。",
+        "translation": "I got up while it was still dark.",
+        "furigana": false
+      },
+      {
+        "kanji": "彼は伝言をすべて暗記しなければならなかった。",
+        "hiragana": "<ruby><rb>彼</rb><rt>かれ</rt></ruby>は<ruby><rb>伝</rb><rt>でん</rt><rb>言</rb><rt>ごん</rt></ruby>をすべて<ruby><rb>暗</rb><rt>あん</rt><rb>記</rb><rt>き</rt></ruby>しなければならなかった。",
+        "translation": "He had to commit the whole message to memory.",
+        "furigana": false
+      },
+      {
+        "kanji": "猫は暗闇でも見える。",
+        "hiragana": "<ruby><rb>猫</rb><rt>ねこ</rt></ruby>は<ruby><rb>暗</rb><rt>くら</rt><rb>闇</rb><rt>やみ</rt></ruby>でも<ruby><rb>見</rb><rt>み</rt></ruby>える。",
+        "translation": "Cats have the ability to see in the dark.",
         "furigana": false
       }
     ]

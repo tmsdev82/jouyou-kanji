@@ -3,12 +3,12 @@
     <div class="q-pa-md column" style="min-width: 90%; max-width: 95%">
       <div
         v-for="item in kanji"
-        :key="item.name"
+        :key="item.kanji"
         class="full-width justify-start content-start column items-start my-row"
       >
         <div class="full-width row justify-start items-center">
           <div class="kanji match-q-indent">
-            {{ item.name }}
+            {{ item.kanji }}
           </div>
           <div>
             <q-space />
@@ -44,7 +44,7 @@
               <q-card-section>
                 <ul>
                   <li
-                    v-for="(exampleSentence, index) in item.exampleSentences"
+                    v-for="(exampleSentence, index) in item.example_sentences"
                     :key="index"
                   >
                     <span class="clickable-text" v-if="!exampleSentence.furigana" @click="exampleSentence.furigana=true">{{ exampleSentence.kanji }}</span>                    
