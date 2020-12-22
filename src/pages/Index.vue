@@ -53,13 +53,13 @@
                     <span
                       class="clickable-text"
                       v-if="!exampleSentence.furigana"
-                      @click="exampleSentence.furigana = true"
+                      @click="toggleTranslation(exampleSentence, true)"
                       >{{ exampleSentence.kanji }}</span
                     >
                     <div
                       class="clickable-text"
                       v-if="exampleSentence.furigana"
-                      @click="exampleSentence.furigana = false"
+                      @click="toggleTranslation(exampleSentence, false)"
                     >
                       <div v-html="exampleSentence.hiragana"></div>
                       <div>{{ exampleSentence.translation }}</div>
@@ -138,6 +138,7 @@ export default {
   name: "PageIndex",
   data: function() {
     return {
+      kanji: [],
       selectedKanji: {
         kanji: "",
         meaning: "",
@@ -149,22 +150,32 @@ export default {
       kanjiDialogShown: false
     };
   },
-  computed: {
-    kanji: function() {
-      console.log("kanji section" + this.$route.params.section);
-      const currSection = this.$route.params.section;
-      if (currSection === "い") {
-        return i_json;
-      } else {
-        return a_json;
-      }
+  watch: {
+    '$route.params.section': function(section) {      
+      this.updateKanjiData();
     }
   },
+  mounted() {
+    this.updateKanjiData();
+  },  
   methods: {
     showKanjiDialog: function(selectedKanji) {
       console.log("test");
       this.selectedKanji = selectedKanji;
       this.kanjiDialogShown = true;
+    },
+    toggleTranslation: function(exampleSentence, value) {
+      console.log("toggle furigana: "+ value);
+      exampleSentence.furigana = value;
+    },
+    updateKanjiData: function() {
+      console.log("kanji section" + this.$route.params.section);
+      const currSection = this.$route.params.section;
+      if (currSection === "い") {
+        this.kanji = i_json;
+      } else {
+        this.kanji = a_json;
+      }
     }
   }
 };
