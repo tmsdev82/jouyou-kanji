@@ -7,7 +7,10 @@
         class="full-width justify-start content-start column items-start my-row"
       >
         <div class="full-width row justify-start items-center">
-          <div @click="showKanjiDialog(item)" class="kanji match-q-indent kanji-header">
+          <div
+            @click="showKanjiDialog(item)"
+            class="kanji match-q-indent kanji-header"
+          >
             {{ item.kanji }}
           </div>
           <div>
@@ -74,18 +77,21 @@
 
       <q-dialog v-model="kanjiDialogShown">
         <q-card class="kanji-full-card">
+          <q-bar>
+            <q-space />
+
+            <q-btn dense flat icon="close" v-close-popup>
+              <q-tooltip>Close</q-tooltip>
+            </q-btn>
+          </q-bar>
           <q-card-section>
             <div class="row">
-              <div class="text-h2 kanji-header kanji-full-title">              
+              <div class="text-h2 kanji-header kanji-full-title">
                 {{ selectedKanji.kanji }}
               </div>
               <div class="column">
-                <div>
-                Radical: {{selectedKanji.radical}}
-                </div>
-                <div>
-                Strokes: {{selectedKanji.strokes}}
-                </div>
+                <div>Radical: {{ selectedKanji.radical }}</div>
+                <div>Strokes: {{ selectedKanji.strokes }}</div>
               </div>
             </div>
           </q-card-section>
@@ -94,12 +100,11 @@
           <q-card-section class="q-pt-none">
             {{ selectedKanji.meaning }}
           </q-card-section>
-           <q-separator />
-          <q-card-section >
-<ul>
+          <q-separator />
+          <q-card-section>
+            <ul>
               <li
-                v-for="(compoundWord,
-                index) in selectedKanji.compound_words"
+                v-for="(compoundWord, index) in selectedKanji.compound_words"
                 :key="index"
               >
                 <div>
@@ -109,7 +114,7 @@
               </li>
             </ul>
           </q-card-section>
-           <q-separator />
+          <q-separator />
           <q-card-section>
             <ul>
               <li
@@ -151,13 +156,13 @@ export default {
     };
   },
   watch: {
-    '$route.params.section': function(section) {      
+    "$route.params.section": function(section) {
       this.updateKanjiData();
     }
   },
   mounted() {
     this.updateKanjiData();
-  },  
+  },
   methods: {
     showKanjiDialog: function(selectedKanji) {
       console.log("test");
@@ -165,7 +170,7 @@ export default {
       this.kanjiDialogShown = true;
     },
     toggleTranslation: function(exampleSentence, value) {
-      console.log("toggle furigana: "+ value);
+      console.log("toggle furigana: " + value);
       exampleSentence.furigana = value;
     },
     updateKanjiData: function() {
@@ -226,11 +231,10 @@ ul {
 
 .kanji-full-card {
   font-size: 1.2em;
-  
 }
 
 .kanji-header {
-  color: #81bd8b
+  color: #81bd8b;
 }
 
 .kanji-full-title {
