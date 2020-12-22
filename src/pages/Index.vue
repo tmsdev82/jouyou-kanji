@@ -76,14 +76,7 @@
       </div>
 
       <q-dialog v-model="kanjiDialogShown">
-        <q-card class="kanji-full-card">
-          <q-bar>
-            <q-space />
-
-            <q-btn dense flat icon="close" v-close-popup>
-              <q-tooltip>Close</q-tooltip>
-            </q-btn>
-          </q-bar>
+        <q-card class="kanji-full-card">         
           <q-card-section>
             <div class="row">
               <div class="text-h2 kanji-header kanji-full-title">
@@ -101,7 +94,13 @@
             {{ selectedKanji.meaning }}
           </q-card-section>
           <q-separator />
-          <q-card-section>
+          <q-card-section style="max-height:50vw" class="scroll">
+            <div>
+                <div class="text-h7">
+                Compound words
+              </div>
+              <div>
+
             <ul>
               <li
                 v-for="(compoundWord, index) in selectedKanji.compound_words"
@@ -113,9 +112,15 @@
                 </div>
               </li>
             </ul>
-          </q-card-section>
-          <q-separator />
-          <q-card-section>
+              </div>
+            </div>
+            <q-separator />
+            <div>
+              <div class="text-h7">
+                Example sentences
+              </div>
+              <div>
+
             <ul>
               <li
                 v-for="(exampleSentence,
@@ -128,7 +133,13 @@
                 </div>
               </li>
             </ul>
+              </div>
+
+            </div>
           </q-card-section>
+          <q-card-actions align="right">
+          <q-btn flat label="Close" color="primary" v-close-popup />
+        </q-card-actions>
         </q-card>
       </q-dialog>
     </div>
@@ -235,6 +246,10 @@ ul {
 
 .kanji-header {
   color: #81bd8b;
+}
+
+.text-h7{
+  color: #487550;
 }
 
 .kanji-full-title {
