@@ -5,8 +5,9 @@ const routes = [
     component: () => import('layouts/MainLayout.vue'),
     children: [
       { path: 'about', component: () => import('pages/About.vue')},
-      { path: 'kanji-list', component: () => import('pages/Index.vue') },
-      { path: '', redirect: 'kanji-list' },
+      { path: 'kanji-list/:section', component: () => import('pages/Index.vue') },
+      { path: 'kanji-list', redirect:'kanji-list/あ' },
+      { path: '', redirect:'kanji-list/あ' },
     ]
   },
 

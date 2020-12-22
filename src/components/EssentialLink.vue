@@ -2,7 +2,7 @@
   <q-item
     clickable
     tag="router-link"    
-    :to="link"
+    :to="{path: link, query: param}"
   >
     <q-item-section
       v-if="icon"
@@ -37,6 +37,11 @@ export default {
     link: {
       type: String,
       default: '#'
+    },
+
+    param: {
+      type: String,
+      default: ''
     },
 
     icon: {

@@ -1,0 +1,142 @@
+[
+    {
+      "number": "15",
+      "kanji": "以",
+      "radical": "人",
+      "strokes": "5",
+      "grade": "4",
+      "jlpt": "3",
+      "freq": "126",
+      "onyomi": "イ",
+      "kunyomi": "もっ.て",
+      "meaning": "because, in view of, by means of, compared with",
+      "compound_words": [
+        {
+          "kanji": "それ以上",
+          "hiragana": "それ<ruby><rb>以</rb><rt>い</rt><rb>上</rb><rt>じょう</rt></ruby>",
+          "translation": "further, above, anymore",
+          "furigana": false
+        },
+        {
+          "kanji": "それ以来",
+          "hiragana": "それ<ruby><rb>以</rb><rt>い</rt><rb>来</rb><rt>らい</rt></ruby>",
+          "translation": "since then, from that time, ever since",
+          "furigana": false
+        },
+        {
+          "kanji": "以外",
+          "hiragana": "<ruby><rb>以</rb><rt>い</rt><rb>外</rb><rt>がい</rt></ruby>",
+          "translation": "with the exception of, excepting",
+          "furigana": false
+        },
+        {
+          "kanji": "以降",
+          "hiragana": "<ruby><rb>以</rb><rt>い</rt><rb>降</rb><rt>こう</rt></ruby>",
+          "translation": "on and after, as from, hereafter, thereafter, since",
+          "furigana": false
+        },
+        {
+          "kanji": "以前",
+          "hiragana": "<ruby><rb>以</rb><rt>い</rt><rb>前</rb><rt>ぜん</rt></ruby>",
+          "translation": "ago, since, before, previous",
+          "furigana": false
+        }
+      ],
+      "example_sentences": [
+        {
+          "kanji": "３年前に東京へ来て以来ここに住んでいる。",
+          "hiragana": "３<ruby><rb>年</rb><rt>ねん</rt><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>東</rb><rt>とう</rt><rb>京</rb><rt>きょう</rt></ruby>へ<ruby><rb>来</rb><rt>き</rt></ruby>て<ruby><rb>以</rb><rt>い</rt><rb>来</rb><rt>らい</rt></ruby>ここに<ruby><rb>住</rb><rt>す</rt></ruby>んでいる。",
+          "translation": "I came to Tokyo three years ago and have been living here ever since.",
+          "furigana": false
+        },
+        {
+          "kanji": "手術は医院内で三十分以内に完了します。",
+          "hiragana": "<ruby><rb>手</rb><rt>しゅ</rt><rb>術</rb><rt>じゅつ</rt></ruby>は<ruby><rb>医</rb><rt>い</rt><rb>院</rb><rt>いん</rt><rb>内</rb><rt>ない</rt></ruby>で<ruby><rb>三</rb><rt>さん</rt><rb>十</rb><rt>じゅっ</rt><rb>分</rb><rt>ぷん</rt><rb>以</rb><rt>い</rt><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>完</rb><rt>かん</rt><rb>了</rb><rt>りょう</rt></ruby>します。",
+          "translation": "The surgery, performed at our clinic, is over in half an hour.",
+          "furigana": false
+        },
+        {
+          "kanji": "これ以上は読む価値がない。",
+          "hiragana": "これ<ruby><rb>以</rb><rt>い</rt><rb>上</rb><rt>じょう</rt></ruby>は<ruby><rb>読</rb><rt>よ</rt></ruby>む<ruby><rb>価</rb><rt>か</rt><rb>値</rb><rt>ち</rt></ruby>がない。",
+          "translation": "It's not worth reading any further.",
+          "furigana": false
+        },
+        {
+          "kanji": "徒歩５分以内に着くはずです。",
+          "hiragana": "<ruby><rb>徒</rb><rt>と</rt><rb>歩</rb><rt>ほ</rt></ruby>５<ruby><rb>分</rb><rt>ふん</rt><rb>以</rb><rt>い</rt><rb>内</rb><rt>ない</rt></ruby>に<ruby><rb>着</rb><rt>つ</rt></ruby>くはずです。",
+          "translation": "You should get there in five minutes walking.",
+          "furigana": false
+        },
+        {
+          "kanji": "彼女以外は誰も欠席してなかった。",
+          "hiragana": "<ruby><rb>彼</rb><rt>かの</rt><rb>女</rb><rt>じょ</rt><rb>以</rb><rt>い</rt><rb>外</rb><rt>がい</rt></ruby>は<ruby><rb>誰</rb><rt>だれ</rt></ruby>も<ruby><rb>欠</rb><rt>けっ</rt><rb>席</rb><rt>せき</rt></ruby>してなかった。",
+          "translation": "No one was absent except her.",
+          "furigana": false
+        }
+      ]
+    },
+    {
+      "number": "16",
+      "kanji": "衣",
+      "radical": "衣",
+      "strokes": "6",
+      "grade": "4",
+      "jlpt": "2",
+      "freq": "1214",
+      "onyomi": "イ, エ",
+      "kunyomi": "ころも, きぬ, -ぎ",
+      "meaning": "clothes, garment, dressing",
+      "compound_words": [
+        {
+          "kanji": "悪衣",
+          "hiragana": "<ruby><rb>悪</rb><rt>あく</rt><rb>衣</rb><rt>い</rt></ruby>",
+          "translation": "shabby clothes",
+          "furigana": false
+        },
+        {
+          "kanji": "衣架",
+          "hiragana": "<ruby><rb>衣</rb><rt>い</rt><rb>架</rb><rt>か</rt></ruby>",
+          "translation": "clothes rack",
+          "furigana": false
+        },
+        {
+          "kanji": "衣装",
+          "hiragana": "<ruby><rb>衣</rb><rt>い</rt><rb>装</rb><rt>しょう</rt></ruby>",
+          "translation": "clothing, costume, outfit, garment, dress",
+          "furigana": false
+        },
+        {
+          "kanji": "衣食住",
+          "hiragana": "<ruby><rb>衣</rb><rt>い</rt><rb>食</rb><rt>しょく</rt><rb>住</rb><rt>じゅう</rt></ruby>",
+          "translation": "necessities of life (food, clothing and shelter)",
+          "furigana": false
+        }
+      ],
+      "example_sentences": [
+        {
+          "kanji": "母は衣服にたくさんのお金を使う。",
+          "hiragana": "<ruby><rb>母</rb><rt>はは</rt></ruby>は<ruby><rb>衣</rb><rt>い</rt><rb>服</rb><rt>ふく</rt></ruby>にたくさんのお<ruby><rb>金</rb><rt>かね</rt></ruby>を<ruby><rb>使</rb><rt>つか</rt></ruby>う。",
+          "translation": "My mother spends a lot of money on clothes.",
+          "furigana": false
+        },
+        {
+          "kanji": "貧乏な人々に食料と衣類を供給しなければならない。",
+          "hiragana": "<ruby><rb>貧</rb><rt>びん</rt><rb>乏</rb><rt>ぼう</rt></ruby>な<ruby><rb>人</rb><rt>ひと</rt><rb>々</rb><rt>びと</rt></ruby>に<ruby><rb>食</rb><rt>しょく</rt><rb>料</rb><rt>りょ</rt></ruby>と<ruby><rb>衣</rb><rt>い</rt><rb>類</rb><rt>るい</rt></ruby>を<ruby><rb>供</rb><rt>きょう</rt><rb>給</rb><rt>きゅう</rt></ruby>しなければならない。",
+          "translation": "We must provide food and clothes for the poor.",
+          "furigana": false
+        },
+        {
+          "kanji": "私は数分前に衣類のアイロンがけを終えた。",
+          "hiragana": "<ruby><rb>私</rb><rt>わたし</rt></ruby>は<ruby><rb>数</rb><rt>すう</rt><rb>分</rb><rt>ふん</rt><rb>前</rb><rt>まえ</rt></ruby>に<ruby><rb>衣</rb><rt>い</rt><rb>類</rb><rt>るい</rt></ruby>のアイロンがけを<ruby><rb>終</rb><rt>お</rt></ruby>えた。",
+          "translation": "I finished ironing the clothes a few minutes ago.",
+          "furigana": false
+        },
+        {
+          "kanji": "彼女は黒衣をまとっていた。",
+          "hiragana": "<ruby><rb>彼</rb><rt>かの</rt><rb>女</rb><rt>じょ</rt></ruby>は<ruby><rb>黒</rb><rt>こく</rt><rb>衣</rb><rt>い</rt></ruby>をまとっていた。",
+          "translation": "She was dressed in black.",
+          "furigana": false
+        }
+      ]
+    }
+  ]
