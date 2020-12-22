@@ -94,7 +94,7 @@
             {{ selectedKanji.meaning }}
           </q-card-section>
           <q-separator />
-          <q-card-section style="max-height:50vw" class="scroll">
+          <q-card-section style="max-height:90vw" class="scroll">
             <div>
                 <div class="text-h7">
                 Compound words
