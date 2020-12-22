@@ -76,7 +76,7 @@
         <q-card class="kanji-full-card">
           <q-card-section>
             <div class="row">
-              <div class="text-h2 kanji-header">              
+              <div class="text-h2 kanji-header kanji-full-title">              
                 {{ selectedKanji.kanji }}
               </div>
               <div class="column">
@@ -199,6 +199,7 @@ td {
   font-size: 20px;
   padding: 3px 6px;
   margin-right: 15px;
+  cursor: pointer;
 }
 
 .kanji .q-item__label.q-item__label--caption.text-caption {
@@ -225,9 +226,16 @@ ul {
 
 .kanji-full-card {
   font-size: 1.2em;
+  
 }
 
 .kanji-header {
   color: #81bd8b
+}
+
+.kanji-full-title {
+  border: 1px solid black;
+  padding: 2px;
+  margin-right: 5px;
 }
 </style>

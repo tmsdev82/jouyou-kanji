@@ -37,53 +37,36 @@
             default-opened
           >
             <q-card>
-              <q-card-section> 
-                <q-list bordered class="rounded-borders">
-          <q-expansion-item
-            expand-separator
-            
-            label="あ、い、う、え、お"            
-            
-          >
-            <q-card>
-              <q-card-section> 
-                  <EssentialLink
-                  v-for="kanjiLink in aiueoLinks"
-                  :key="kanjiLink.title"
-                  v-bind="kanjiLink"
-                  />
+              <q-card-section>
+                <!-- <q-list bordered class="rounded-borders">
+                  <q-expansion-item expand-separator label="あ、い、う、え、お">
+                    <q-card>
+                      <q-card-section>
+                        <EssentialLink
+                          v-for="kanjiLink in aiueoLinks"
+                          :key="kanjiLink.title"
+                          v-bind="kanjiLink"
+                        />
+                      </q-card-section>
+                    </q-card>
+                  </q-expansion-item>
+                </q-list> -->
+                <router-link to="/kanji-list/あ" >
+                  <template v-slot="props">
+                    <q-btn v-bind="buttonProps(props, 'あ')" />
+                  </template>
+                </router-link>
+
+                <router-link to="/kanji-list/い">
+                  <template v-slot="props">
+                    <q-btn v-bind="buttonProps(props, 'い')" />
+                  </template>
+                </router-link>
               </q-card-section>
             </q-card>
           </q-expansion-item>
         </q-list>
-              </q-card-section>
-            </q-card>
-          </q-expansion-item>
-        </q-list>
-
-        <!-- <q-item>
-          <q-item-section top avatar>
-            <q-icon name="school" />
-          </q-item-section>
-
-          <q-item-section side top>
-            <q-item-label>Kanji list</q-item-label>
-            <q-item-label caption>
-              Description
-            </q-item-label>
-          </q-item-section>
-          <q-item-section>
-          </q-item-section>
-        </q-item> -->
-        <!-- <div class="q-pa-md q-gutter-sm">
-          <q-tree
-            :nodes="props"
-            default-expand-all
-            :selected.sync="selectedSection"
-            node-key="label"
-            color="primary"
-          />
-        </div> -->
+   
         <EssentialLink
           v-for="link in essentialLinks"
           :key="link.title"
@@ -119,14 +102,12 @@ export default {
       essentialLinks: linksData,
       aiueoLinks: [
         {
-          title: "あ",          
-          link: "/kanji-list/あ",
-          
+          title: "あ",
+          link: "/kanji-list/あ"
         },
         {
-          title: "い",          
-          link: "/kanji-list/い",
-          
+          title: "い",
+          link: "/kanji-list/い"
         }
       ],
       selectedSection: "あ",
@@ -142,12 +123,31 @@ export default {
     };
   },
   methods: {
-    nodeHandler: function(node) {
-      console.log("clicked: " + node.meta);
-      this.$router.replace({
-        path: "kanji-list",
-        query: { kanji_section: node.meta }
-      });
+    buttonProps({ href, route, isActive, isExactActive }, label) {
+      // const props = {
+      //   color: "black",
+      //   noCaps: true,
+      //   label: `To "${route.fullPath}"`,
+      //   outline: true,
+      //   to: href
+      // };
+        console.log(href);
+       const props = {
+        color: "black",
+        noCaps: true,
+        label: label,
+        outline: true,
+        to: route.fullPath
+      };
+
+
+      if (isActive === true) {
+        props.color = isExactActive === true ? "primary" : "black";
+      } else {
+        props.color = "black";
+      }
+
+      return props;
     }
   }
 };
